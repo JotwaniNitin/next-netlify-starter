@@ -15,7 +15,10 @@ export default function Home() {
         <p className="description">
           Thanks Sridher Jeyachandran!
         </p>
+    
+        <img src="https://media-exp1.licdn.com/dms/image/C5103AQEntiU4nOekqQ/profile-displayphoto-shrink_800_800/0/1546613243029?e=2147483647&v=beta&t=bBqqXta3icGetTKOf-ZdxlixAYWeMHgeEcTD1khdkPA">
       </main>
+    
 
       <Footer />
     </div>
