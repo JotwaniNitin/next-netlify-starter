@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Having fun with the Crio Session!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Thanks Sridher Jeyachandran!
         </p>
       </main>
 
